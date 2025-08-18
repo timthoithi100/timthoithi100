@@ -51,15 +51,6 @@ I’ve never sought the spotlight, but I’m proud of the solutions I’ve built
 
 ---
 
-## Fun Facts
-
-- **Artist & Illustrator:** Graffiti, calligraphy, fantasy, portraits, and more
-- **Basketball:** Exceptional two-way shooting guard—handles, passing, defense!
-- **Polyglot:** Fluent in German (learned in school) and Spanish (self-taught)
-- **Always learning:** I love exploring new technologies, frameworks, and languages
-
----
-
 ## Connect With Me
 
 - [Instagram](https://www.instagram.com/achokdot/)
