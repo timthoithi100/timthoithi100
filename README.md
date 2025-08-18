@@ -45,10 +45,6 @@ My first DevOps assignment: Jenkins pipeline for a Node gallery app—automated 
 
 ---
 
-## Bio
-
-Hi, I'm Tim Thoithi—a passionate builder at heart, always seeking elegant solutions on lean hardware. From my trusty HP Elitebook 8440p to the clouds of GCP, I thrive in the intersection of software development and DevOps. I recently graduated with a Bachelor’s in Business Information Technology, then dove deep into DevOps engineering at Moringa School. My journey has been fueled by curiosity, self-reliance, and a love for learning—whether it’s crafting lightweight Flask apps, orchestrating containers on Kubernetes, or exploring new tech stacks for fun (and necessity!).
-
 Away from the terminal, you’ll find me sketching graffiti, mastering calligraphy, or playing basketball as a versatile two-way guard. I’m also fluent in German and Spanish—language learning is another of my lifelong passions.
 
 I’ve never sought the spotlight, but I’m proud of the solutions I’ve built and the skills I’ve grown. Connect with me if you love robust systems, creative art, or just want to swap stories about learning and building from scratch!
