@@ -7,7 +7,7 @@
 I’m a passionate builder—always seeking elegant, efficient solutions. My journey started back in high school (2017), and I’ve worked my way from classic web dev to modern DevOps, all on my trusty HP Elitebook 8440p. I thrive working with lightweight stacks like Flask + SQLite, but I’ve also explored the world of React, Node, and cloud orchestration because versatility matters.
 
 - **2025 Graduate:** Bachelor’s in Business Information Technology (Sept 2021 – Apr 2025)
-- **DevOps Engineer:** Moringa School (Jul 2025 – Aug 2025)
+- **DevOps Engineer:** Moringa School (Jun 2025 – Aug 2025)
 - **Self-taught & Curious:** Most of my work is self-driven, not commercial—recently, I’ve gone deep into DevOps pipelines, containerization, and cloud deployments.
 
 ---
