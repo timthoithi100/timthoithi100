@@ -1,12 +1,12 @@
-# Hi, I'm Tim Thoithi 👋
+# Hi, I'm Tim Thoithi
 
-### 🚀 Junior Software Developer & DevOps Engineer
+### Software Developer & DevOps Engineer
 ---
 **Building robust solutions on lean hardware | Art, basketball, and languages fuel my creativity**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a passionate builder—always seeking elegant, efficient solutions. My journey started back in high school (2017), and I’ve worked my way from classic web dev to modern DevOps, all on my trusty HP Elitebook 8440p. I thrive working with lightweight stacks like Flask + SQLite, but I’ve also explored the world of React, Node, and cloud orchestration because versatility matters.
 
@@ -16,7 +16,7 @@ I’m a passionate builder—always seeking elegant, efficient solutions. My jou
 
 ---
 
-## 🛠️ Technologies & Skills
+## Technologies & Skills
 
 **Web & Backend:**  
 HTML, CSS (Bootstrap), JavaScript, Python, Flask, Django, Node.js, React, SQL, SQLite, SQLAlchemy
@@ -35,7 +35,7 @@ Git & GitHub, Bash scripting, System architectures, MongoDB
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### [Yolo E-Commerce Platform](https://github.com/timthoithi100/yolo)
 Containerized full-stack app (React + Node + MongoDB) demonstrating:
@@ -49,7 +49,7 @@ My first DevOps assignment: Jenkins pipeline for a Node gallery app—automated 
 
 ---
 
-## 💬 Bio
+## Bio
 
 Hi, I'm Tim Thoithi—a passionate builder at heart, always seeking elegant solutions on lean hardware. From my trusty HP Elitebook 8440p to the clouds of GCP, I thrive in the intersection of software development and DevOps. I recently graduated with a Bachelor’s in Business Information Technology, then dove deep into DevOps engineering at Moringa School. My journey has been fueled by curiosity, self-reliance, and a love for learning—whether it’s crafting lightweight Flask apps, orchestrating containers on Kubernetes, or exploring new tech stacks for fun (and necessity!).
 
@@ -59,7 +59,7 @@ I’ve never sought the spotlight, but I’m proud of the solutions I’ve built
 
 ---
 
-## 🎨 Fun Facts
+## Fun Facts
 
 - **Artist & Illustrator:** Graffiti, calligraphy, fantasy, portraits, and more
 - **Basketball:** Exceptional two-way shooting guard—handles, passing, defense!
@@ -68,7 +68,7 @@ I’ve never sought the spotlight, but I’m proud of the solutions I’ve built
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 - [Instagram](https://www.instagram.com/achokdot/)
 - [X (Twitter)](https://x.com/thoithi72240)
