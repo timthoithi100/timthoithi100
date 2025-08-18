@@ -1,10 +1,6 @@
 # Hi, I'm Tim Thoithi
 
 ### Software Developer & DevOps Engineer
----
-**Building robust solutions on lean hardware | Art, basketball, and languages fuel my creativity**
-
----
 
 ## About Me
 
