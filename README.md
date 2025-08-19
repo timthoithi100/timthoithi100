@@ -1,6 +1,6 @@
 # Hi, I'm Tim Thoithi
 
-### Software Developer & DevOps Engineer
+### Full-Stack Developer & DevOps Engineer
 
 ## About Me
 
