@@ -31,20 +31,6 @@ Git & GitHub, Bash scripting, System architectures, MongoDB
 
 ---
 
-## Featured Projects
-
-### [Yolo E-Commerce Platform](https://github.com/timthoithi100/yolo)
-Containerized full-stack app (React + Node + MongoDB) demonstrating:
-- Docker Compose, custom networking, and volumes for persistence
-- Infrastructure as Code with Ansible & Terraform (Vagrant for local, AWS for cloud)
-- Advanced Kubernetes orchestration on GKE (StatefulSets, Deployments, Services)
-- Semantic versioned images on DockerHub ([timthoithi100/yolo-client:1.0.0](https://hub.docker.com/r/timthoithi100/yolo-client), [timthoithi100/yolo-backend:1.0.0](https://hub.docker.com/r/timthoithi100/yolo-backend))
-
-### [Gallery Pipeline Example](https://github.com/timthoithi100/gallery/blob/master/Jenkinsfile)
-My first DevOps assignment: Jenkins pipeline for a Node gallery app—automated build, test, deploy, and notification!
-
----
-
 Away from the terminal, you’ll find me sketching graffiti, mastering calligraphy, or playing basketball as a versatile two-way guard. I’m also fluent in German and Spanish—language learning is another of my lifelong passions.
 
 I’ve never sought the spotlight, but I’m proud of the solutions I’ve built and the skills I’ve grown. Connect with me if you love robust systems, creative art, or just want to swap stories about learning and building from scratch!
