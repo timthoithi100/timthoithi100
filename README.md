@@ -15,7 +15,7 @@ I’m a passionate builder—always seeking elegant, efficient solutions. My jou
 ## Technologies & Skills
 
 **Web & Backend:**  
-HTML, CSS (Bootstrap), JavaScript, Python, Flask, Django, Node.js, React, SQL, SQLite, SQLAlchemy
+HTML, CSS (Bootstrap), JavaScript, Python, Flask, Django, Node.js, React, SQL, SQLite, SQLAlchemy,MongoDB
 
 **DevOps & Cloud:**  
 Docker, Jenkins, Render, Ansible, Terraform, Vagrant, VirtualBox, Kubernetes (GKE), Prometheus, Grafana, Nginx
@@ -27,7 +27,7 @@ Pandas, NumPy, SciPy, Power BI, Matplotlib, Plotly
 Wireshark, OpenSSL, John the Ripper
 
 **Other:**  
-Git & GitHub, Bash scripting, System architectures, MongoDB
+Git & GitHub, Bash scripting, Prompt engineering
 
 ---
 
