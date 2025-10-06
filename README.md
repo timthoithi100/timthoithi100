@@ -8,7 +8,6 @@ I’m a passionate builder—always seeking elegant, efficient solutions. I thri
 
 - **Bachelor’s in Business Information Technology:** Multimedia University of Kenya Graduate (Sept 2021 – Apr 2025)
 - **DevOps Engineer:** Moringa School (Jun 2025 – Aug 2025)
-- **Self-taught & Curious:** Most of my work is self-driven, not commercial—recently, I’ve gone deep into DevOps pipelines, containerization, and cloud deployments.
 
 ---
 
