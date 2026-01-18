@@ -19,12 +19,6 @@ HTML, CSS (Bootstrap), JavaScript, Python, Flask, Django, Node.js, React, SQL, S
 **DevOps & Cloud:**  
 Docker, Jenkins, Render, Ansible, Terraform, Vagrant, VirtualBox, Kubernetes (GKE), Prometheus, Grafana, Nginx
 
-**Data & Visualization:**  
-Pandas, NumPy, SciPy, Power BI, Matplotlib, Plotly
-
-**Security & Networking:**  
-Wireshark, OpenSSL, John the Ripper
-
 **Other:**  
 Git & GitHub, Bash scripting, Prompt engineering
 
