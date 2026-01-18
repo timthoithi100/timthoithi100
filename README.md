@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m a passionate builder—always seeking elegant, efficient solutions. I thrive working with lightweight stacks like Flask + SQLite, but I’ve also explored the world of React, Node, and cloud orchestration because versatility matters.
+I’m a passionate builder—always seeking elegant, efficient solutions.
 
 - **Bachelor’s in Business Information Technology:** Multimedia University of Kenya Graduate (Sept 2021 – Apr 2025)
 - **DevOps Engineer:** Moringa School (Jun 2025 – Aug 2025)
