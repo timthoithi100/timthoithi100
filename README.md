@@ -6,7 +6,7 @@
 
 I’m a passionate builder—always seeking elegant, efficient solutions.
 
-- **Bachelor’s in Business Information Technology:** Multimedia University of Kenya Graduate (Sept 2021 – Apr 2025)
+- **BSc Business Information Technology:** Multimedia University of Kenya (Sept 2021 – Apr 2025)
 - **DevOps Engineer:** Moringa School (Jun 2025 – Aug 2025)
 
 ---
@@ -24,7 +24,7 @@ Git & GitHub, Bash scripting, Prompt engineering
 
 ---
 
-Away from the terminal, you’ll find me sketching graffiti, mastering calligraphy, or playing basketball as a versatile two-way guard.
+Away from the terminal, you’ll find me sketching graffiti, mastering calligraphy, or playing basketball as a two-way guard.
 
 Connect with me if you love robust systems, creative art, or just want to swap stories about learning and building from scratch!
 
