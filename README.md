@@ -14,10 +14,10 @@ I’m a passionate builder—always seeking elegant, efficient solutions.
 ## Technologies & Skills
 
 **Web & Backend:**  
-HTML, CSS, JavaScript, Python, Flask, Django, Node.js, React, SQL, SQLite, SQLAlchemy, MongoDB
+HTML, CSS, JavaScript, Python, Flask, Django, Node.js, React, SQL, SQLAlchemy, MongoDB
 
 **DevOps & Cloud:**  
-Docker, Jenkins, Render, Ansible, Terraform, Vagrant, VirtualBox, Kubernetes (GKE), Prometheus, Grafana, Nginx
+Docker, Jenkins, Render, Ansible, Terraform, Vagrant, VirtualBox, Kubernetes, Prometheus, Grafana, Nginx
 
 **Other:**  
 Git & GitHub, Bash scripting, Prompt engineering
