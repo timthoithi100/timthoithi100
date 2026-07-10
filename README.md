@@ -1,9 +1,3 @@
-# Hi, I'm Tim Thoithi
-
-### Platform Engineer | Building scalable web applications & automating cloud infrastructure
-
-## About Me
-
 I work at the intersection of software development and cloud infrastructure — building applications, then engineering the systems that let them run reliably at scale. My approach comes down to a few core beliefs: infrastructure should be defined as code, repetitive work should be automated, and systems should be predictable above all else.
 
 Some days that means building a clean React interface; other days it's tuning a production Kubernetes cluster. The goal is always the same: secure, reliable, well-engineered systems.
