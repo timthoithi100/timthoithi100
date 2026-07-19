@@ -9,7 +9,7 @@ Some days that means building a clean React interface; other days it's tuning a 
 
 ## Experience
 
-**Site Reliability Engineer** · Biometrics Technologies Limited *(Sep 2025 – Present)*
+**Site Reliability Engineer** • Intern · Biometrics Technologies Limited *(Sep 2025 – Present)*
 Sharpening SRE skills in a live, high-stakes environment at Times Towers, Nairobi — hands-on with monitoring, troubleshooting, and software-hardware integration for critical security systems.
 
 **Security Infrastructure Technician** · Biometrics Technologies Limited *(Jul – Aug 2024)*
