@@ -42,8 +42,7 @@ Connect with me if you love robust systems, creative art, or just want to swap s
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/tim-thoithi-3a9464315/)
--
-[X (Twitter)](https://x.com/thoithi72240)
+-[X (Twitter)](https://x.com/thoithi72240)
 
 ---
 
