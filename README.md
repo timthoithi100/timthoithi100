@@ -5,7 +5,7 @@ Some days that means building a clean React interface; other days it's tuning a 
 - **BSc Business Information Technology:** Multimedia University of Kenya (2021 – 2025)
 - **Certificate, DevOps Engineering:** Moringa School (2025)
 
----
+--- 
 
 ## Experience
 
