@@ -4,19 +4,6 @@ Some days that means building a clean React interface; other days it's tuning a 
 
 ---
 
-## Technologies & Skills
-
-**Web & Backend:**
-HTML, CSS, JavaScript, Python, Flask, Django, Node.js, React, SQL, SQLAlchemy, MongoDB
-
-**DevOps & Cloud:**
-Docker, Kubernetes, Jenkins, Ansible, Terraform, Vagrant, VirtualBox, Prometheus, Grafana, Nginx, Render, AWS
-
-**Other:**
-Git & GitHub, Bash scripting, Prompt engineering
-
----
-
 Away from the terminal, you'll find me sketching graffiti, mastering calligraphy, or playing basketball as a two-way guard.
 
 Connect with me if you love robust systems, creative art, or just want to swap stories about learning and building from scratch!
