@@ -1,4 +1,4 @@
-I build applications, then engineer the systems that let them run reliably at scale. My approach comes down to a few core beliefs: infrastructure should be defined as code, repetitive work should be automated, and systems should be predictable above all else. Some days I'm building a React interface; other days it's tuning a Kubernetes cluster. The goal is always the same: secure, reliable, well-built systems. Away from the terminal, you'll find me sketching graffiti, mastering calligraphy, or playing basketball as a two-way guard.
+I build applications, then engineer the systems that let them run reliably at scale. My approach comes down to a few core beliefs: infrastructure should be defined as code, repetitive work should be automated, and systems should be predictable above all else. The goal is always the same: secure, reliable, well-built systems. Away from the terminal, you'll find me sketching graffiti, mastering calligraphy, or playing basketball as a two-way guard.
 
 ## Connect With Me
 
